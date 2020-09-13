@@ -28,4 +28,6 @@ Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
-!(https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg)[https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg]
+![https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg)
+![https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg)
+
