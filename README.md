@@ -1,9 +1,19 @@
 # surfs_up
-Deliverable 3: A written report for the statistical analysis (20 points)
-Deliverable 3 Instructions
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 
-The analysis should contain the following:
+# Overview
+## Purpose
+The purpose of this analysis was to look at the temperatures in Oahu across two months in the previous years: June and December. It is important to look at both summer and winter months when determining if the weather would be acceptable to open up a surf and ice cream shop. 
+## What we are looking for
+This analysis will provide information related to the differences in the temperature during the summer month of June and winter month of December. Recommendations regarding the potential success of a surf and ice cream shop, based on the data analysis, will also be provided.
+
+# Results
+## June Temperatures
+![https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg)
+- 
+
+## December Temperatures
+![https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg)
+
 
 Overview of the analysis: Explain the purpose of this analysis.
 Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
@@ -28,6 +38,4 @@ Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
-![https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg)
-![https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg)
 
