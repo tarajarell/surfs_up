@@ -9,22 +9,26 @@ This analysis will provide information related to the differences in the tempera
 # Results
 ## June Temperatures
 ![https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/June_temps_stats.jpg)
-- 
+
+- Average temperature is just under 75 degrees farenheight
+- Maximum temperature reached was 85 degrees farenheight
+- Minimum temperature reached was 64 degrees farenheight
 
 ## December Temperatures
 ![https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg](https://github.com/tarajarell/surfs_up/blob/master/Resources/Dec_temps_stats.jpg)
 
+- Average temperature is 71 degrees farenheight
+- Maximum temperature reached was 83 degrees farenheight
+- Minimum temperature reached was 56 degrees farenheight
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+#Summary
+## Overall
+There is a difference of 4 degrees farenheight for the average temperature in each month, with June being hotter on average than December. The max temp was also relatively similar, with June showing a high of 85 and December a high of 83 (a 2 point spread). However, the mimum temperatures showed a larger spread of 8 degrees between June (64 degrees farenheight) and December (56 degrees farenheight). 
+## Recommendations
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
+
+Provide two additional queries that you would perform to gather more weather data for June and December.
+
 Analysis (14 points)
 The written analysis has the following:
 
