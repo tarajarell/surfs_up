@@ -21,25 +21,10 @@ This analysis will provide information related to the differences in the tempera
 - Maximum temperature reached was 83 degrees farenheight
 - Minimum temperature reached was 56 degrees farenheight
 
-#Summary
+# Summary
 ## Overall
 There is a difference of 4 degrees farenheight for the average temperature in each month, with June being hotter on average than December. The max temp was also relatively similar, with June showing a high of 85 and December a high of 83 (a 2 point spread). However, the mimum temperatures showed a larger spread of 8 degrees between June (64 degrees farenheight) and December (56 degrees farenheight). 
 ## Recommendations
-
-
-Provide two additional queries that you would perform to gather more weather data for June and December.
-
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
+1. With climate change, it may behoove this analysis to add a date restriction filter to the query. Examining whether the data from the past few (nomore than 5) years shows a greater divide in the summer vs winter for minimum temperature than what we currently found may more realistically illude to the likelihood (or not) of obtaining wintertime ice cream customers. 
+2. It may benefit this analysis to obtain and query data related to the ocean water temperatures as well as the weather temperatures. IN doing so, the decisions surrounding what to provide during each season may change. For example, wet suite may become an item worth purchasing for the shop should temperatures in the winter reliable dip below a certain threshold.
 
